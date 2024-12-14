@@ -4,7 +4,7 @@ export const Nosotros = () => {
     return (
         <div className="container-fluid mt-5 p-5 text-center bg-secondary-subtle" id="nosotros">
             <div className="row">
-                <div className="col">
+                <div className="col-sm">
                     <img src="https://cdn.euroinnova.edu.es/img/subidasEditor/euroinnova%20(3)-1663588015.webp" className="figure-img img-fluid rounded" alt="nosotros" />
                 </div>
                 <div className="col">
