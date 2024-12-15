@@ -5,7 +5,7 @@ export const Footer = () => (
 	<footer className="container-fluid mt-auto py-3 text-center">
 		<div className="d-flex justify-content-around">
 			<div className="p-2">
-				<img src={logo} className="img rounded float-start" alt="Electrica GyG" />
+				<img src={logo} className="img-sm rounded float-start" alt="Electrica GyG" />
 				<p className="text-danger"> 
 					<i className="p-2 fa-brands fa-linkedin" />
 					<i className="p-2 fa-brands fa-square-instagram" />
