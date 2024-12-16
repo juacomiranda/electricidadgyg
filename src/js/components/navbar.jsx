@@ -5,7 +5,7 @@ import  logo  from "../../img/electricidad.png";
 export const Navbar = () => {
 	return (
         <div className="container-fluid">
-        <nav className="navbar-nav fixed-top bg-body-tertiary">
+        <nav className="navbar-expand-sm fixed-top bg-body-tertiary">
             <div className="container-fluid mx-5">
                 <a className="navbar-brand" href="#">
                     <img className="img d-inline-block align-text-top" src={logo} alt="Electricidad G&G" />
