@@ -3,7 +3,7 @@ import logo from "../../img/electricidad.png";
 
 export const Footer = () => (
 	<footer className="container-fluid mt-auto py-3 text-center">
-		<div className="d-flex justify-content-around">
+		<div className="d-flex flex-column justify-content-lg-around">
 			<div className="p-2">
 				<img src={logo} className="img rounded float-start" alt="Electrica GyG" />
 				<p className="text-danger"> 

@@ -21,7 +21,7 @@ footer {
     background-size: cover; /* Ajusta la imagen para que cubra el área */
     background-repeat: no-repeat; /* Evita la repetición */
     background-position: center; /* Centra la imagen */
-    height: 100vh; /* Ajusta la altura como desees */
+    /*height: 100vh;  Ajusta la altura como desees */
   }
 
   .card-img-top {

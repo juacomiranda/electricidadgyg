@@ -5,7 +5,7 @@ import  logo  from "../../img/electricidad.png";
 export const Navbar = () => {
 	return (
         <div className="container-fluid">
-        <nav className="navbar fixed-top bg-body-tertiary">
+        <nav className="navbar navbar-expand-lg fixed-top bg-body-tertiary">
             <div className="container-fluid mx-auto">
                 <a className="navbar-brand" href="#">
                     <img className="img d-inline-block align-text-top" src={logo} alt="Electricidad G&G" />
@@ -14,7 +14,7 @@ export const Navbar = () => {
                     <span className="navbar-toggler-icon"></span>
                 </button>
                 <div className="collapse navbar-collapse" id="navbarSupportedContent">
-                    <ul className="navbar-nav ms-auto me-5 mb-2 mb-lg-0 text-center ">
+                    <ul className="navbar-nav ms-auto me-5 mb-2 mb-lg-0 text-center">
                         <li className="nav-item">
                             <a className="nav-link active" aria-current="page" href="#">Inicio</a>
                         </li>
