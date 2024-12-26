@@ -2,7 +2,7 @@ import React from "react";
 
 export const Nosotros = () => {
     return (
-        <div className="container-fluid mt-5 p-5 text-center bg-secondary-subtle" id="nosotros">
+        <div className="container-fluid mt-5 p-5 pt-5 text-center bg-secondary-subtle" id="nosotros">
             <div className="row-sm">
                 <div className="col">
                     <img src="https://cdn.euroinnova.edu.es/img/subidasEditor/euroinnova%20(3)-1663588015.webp" className="figure-img img-fluid rounded" alt="nosotros" />

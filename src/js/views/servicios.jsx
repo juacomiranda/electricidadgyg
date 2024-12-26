@@ -7,7 +7,7 @@ import imagen4 from "../../img/planimetria.png";
 
 export const Servicios = () => {
     return (
-        <div className="container-fluid malla mt-3 text-light p-1" id="servicios">
+        <div className="container-fluid malla mt-3 text-light p-1 pt-5" id="servicios">
             <h1 className="text-center mb-4"> Nuestros Servicios</h1>
             <div className="d-flex flex-column flex-md-row p-3">
             <Card title="Estudios" imagen={imagen1} texto="Se presupuesta la medición de las variables eléctricas." />

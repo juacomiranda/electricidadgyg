@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import logo from "../../img/electricidad.png";
 
 export const Footer = () => (
-	<footer className="container-fluid mt-auto py-3 text-center">
+	<footer className="container-fluid mt-2 py-3 text-center">
 		<div className="d-flex flex-column flex-md-row justify-content-lg-around">
 			<div className="p-2">	
 				<img src={logo} className="img rounded float-start" alt="Electrica GyG" />
