@@ -33,8 +33,6 @@ footer {
     width: 200px;
     height: 80px;
   }
-
- 
   
 
   directorio .directorio-in .datos {
@@ -48,5 +46,13 @@ footer {
     -moz-transition: 0.2s all;
     -webkit-transition: 0.2s all;
     transition: 0.2s all;
+}
+
+.bg-contacto {
+  background-image: url('https://newwweb.net/sites/default/files/2020-03/contacto.jpg');
+  background-size: cover; /* Ajusta la imagen para que cubra el área */
+  background-repeat: no-repeat; /* Evita la repetición */
+  background-position: center; /* Centra la imagen */
+    /*height: 100vh;  Ajusta la altura como desees */
 }
 
